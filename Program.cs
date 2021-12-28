@@ -1,3 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-var dayone = new DayOne();
-await dayone.ProcessPartTwo();
+//var dayOne = new DayOne();
+//await dayOne.Process();
+
+var dayTwo = new DayTwo();
+await dayTwo.Process();
